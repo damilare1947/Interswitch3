@@ -1,0 +1,3 @@
+const IMAGE = {};
+
+export {IMAGE};
